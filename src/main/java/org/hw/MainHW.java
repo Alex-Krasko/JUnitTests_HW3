@@ -17,7 +17,7 @@ public class MainHW {
     }
 
     public static boolean numberInInterval(int n) {
-        if(n > 25 && n< 100) { return true; }
+        if(n > 25 && n < 100) { return true; }
         else {return false; }
     }
 
